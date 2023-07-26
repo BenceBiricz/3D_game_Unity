@@ -1,5 +1,7 @@
 # 3D_game_Unity
 A 3D RPG game created in Unity called Hero's Journey.
+It can be downloaded from this link: https://drive.google.com/file/d/19Ezf5vjBFTtvEZsliUSCIEfXWigtPgYB/view?usp=sharing
+After that an installation is needed.
 
 I created a little RPG game in Unity where the main character is fighthing different monsters in different words.
 
