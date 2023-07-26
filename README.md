@@ -16,18 +16,20 @@ I created a little RPG game in Unity where the main character is fighthing diffe
 # Clips from the game
 Level 1:
 
-https://youtu.be/HQ8BcyiyxSM
-
-![1](https://github.com/BenceBiricz/3D_game_Unity/assets/71565433/b49c678e-0e70-404e-a85e-f0312bee1f11)
+| https://youtu.be/HQ8BcyiyxSM |
+| --- |
+| ![1](https://github.com/BenceBiricz/3D_game_Unity/assets/71565433/b49c678e-0e70-404e-a85e-f0312bee1f11) |
 
 Level 2: 
 
-![2](https://github.com/BenceBiricz/3D_game_Unity/assets/71565433/5c710bae-5db5-4461-83e6-0bfea9f0f85b)
-
-https://youtu.be/BXMe3MtN5YI
+| https://youtu.be/BXMe3MtN5YI |
+| --- |
+| ![2](https://github.com/BenceBiricz/3D_game_Unity/assets/71565433/5c710bae-5db5-4461-83e6-0bfea9f0f85b) |
 
 Level 3:
 
-![3](https://github.com/BenceBiricz/3D_game_Unity/assets/71565433/78a04d16-507f-4d1b-97eb-de15975898d4)
+| https://youtu.be/yK8CbB1SZQA |
+| --- |
+| ![3](https://github.com/BenceBiricz/3D_game_Unity/assets/71565433/78a04d16-507f-4d1b-97eb-de15975898d4) |
 
-https://youtu.be/yK8CbB1SZQA
+
